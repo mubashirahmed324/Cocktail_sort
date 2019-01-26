@@ -58,3 +58,9 @@ IMPLEMENTATION:
 1.	At first you have to enter the size of array ( the number of elements you want to sort)
 2.	Now enter the values in the array that you want to sort
 3.	After complete insertion of values the console 1st show the unsorted array according to the sequence in which you enter the values and then it gives a sorted output in which it prints the complete sorted array.
+
+
+Group members:
+
+Mubashir Ahmed
+Wajeeha Safdar
